@@ -1,0 +1,37 @@
+[
+    {
+        "type": "body",
+        "description": "Estique um de seus braços com a palma da mão virada para frente e puxe os dedos para cima.",
+        "amount": 80
+    },
+    {
+        "type": "body",
+        "description": "Estique seu braço contra o peito e puxe-o utilizando o outro braço por 15 segundos por braço.",
+        "amount": 60
+    },
+    {
+        "type": "body",
+        "description": "Puxe seu pescoço com a ajuda da mão para a direita e para a esquerda, por 10 segundo para cada lado",
+        "amount": 70
+    },
+    {
+        "type": "body",
+        "description": "Puxe o joelho de encontro ao peito e segure, troque de perna após 15 segundos.",
+        "amount": 80
+    },
+    {
+        "type": "eye",
+        "description": "Sentado, feche os olhos e cubra-os com as palmas da mão durante 2 minutos, depois abra normalmente.",
+        "amount": 60
+    },
+    {
+        "type": "eye",
+        "description": "Em algum ambiente aberto, olhe o mais longe que puder em quatro direções por 3segundos.",
+        "amount": 70
+    },
+    {
+        "type": "body",
+        "description": "Em pé gire a cintura o máximo que puder para a esquerda, e para direita, segudando 5seg para cada lado.",
+        "amount": 60
+    }
+]
