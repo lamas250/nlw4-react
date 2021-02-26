@@ -6,10 +6,11 @@
 
 :root {
     --white: #fff;
-    --background: #f2f3f5;
+    --background: #130152;
+    --background2: #190466;
     --gray-line: #DCDDE0;
-    --text: #666666;
-    --title: #2E384D;
+    --text: #acaaaa;
+    --title: #93a0be;
     --red: #E83F5B;
     --green: #4CD62B;
     --blue: #5965E0;
