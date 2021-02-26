@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="MoveIt" src="./logo-full.svg" />
+  <img alt="MoveIt" src="./public/logo-full.svg" />
 </h1>
 
 ### Tecnologias
